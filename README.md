@@ -1,4 +1,4 @@
-#BOT Discord
+# Bot Discord
 
 Cattô est un bot polyvalent : son but à l'origine était de créer un bot capable d'envoyer une URL au hasard
 du site thiscatdoesntexist.com afin de partager des photos de chat sur le serveur de la LP Bilbiothèque de l'UCA.
