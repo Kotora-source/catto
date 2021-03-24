@@ -12,7 +12,7 @@ module.exports = {
       // Set the time
       .setTimestamp()
       //Set the footer
-      .setFooter(`Merci de mentionner votre dictatrice et développeuse préférée en cas de problème ou réclamation.`)
+      .setFooter(`Merci de mentionner votre développeuse préférée en cas de problème ou réclamation.`)
       // Set the main content of the embed
       .setDescription(`Bonjour ${message.author.username}, voici les commandes que tu peux utiliser pour interagir avec moi :
       **!help** : obtenir de l'aide, ce que tu viens de faire :blush:
