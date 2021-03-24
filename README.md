@@ -10,6 +10,6 @@ Basé sur le github de https://github.com/tanguylemarie/DiscordBotJS
 Est en ligne 24h/24 grâce à HEROKU et disponible sur 3 de mes serveurs (à moi et des amis)
 https://heroku.com
 
-##Documentation :
+## Documentation :
 https://Discord.js.org
 https://nodejs.org/fr/
