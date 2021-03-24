@@ -1,0 +1,9 @@
+{
+    "BADWORDS": ["merde", "putain", "chier", "bordel", 
+        "pute", "salope", "connard", "connasse", "enculé", 
+        "pétasse", "bâtard", "nique", "baka", "gilipollas",
+        "ntm", "fdp", "petasse", "batard", "encule", "con"],
+    "GREETINGS": ["bonjour", "salut", "coucou", "bonsoir", "hey", "yo",
+        "hello", "salutation", "bien le bonjour", "bonjoir", "wesh"],
+    "CATTO": ["cato", "cattô", "catto"]
+}
