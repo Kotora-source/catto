@@ -52,7 +52,7 @@ client.on('message', message => {
   }
 
   //Cattô réagit quand on l'insulte
-  else if (wordlists.BADWORDS.some(word => message.content.toLowerCase().includes(word)) && message.author.bot == false && wordlists.CATTO.some(word => message.content.toLowerCase().includes(word)) && message.author.bot == false) {
+  else if (wordlists.BADWORDS.some(word => message.content.toLowerCase().includes(word)) && wordlists.CATTO.some(word => message.content.toLowerCase().includes(word)) && message.author.bot == false) {
     message.reply(`On parle pas comme ça hein !`);
   }
 
